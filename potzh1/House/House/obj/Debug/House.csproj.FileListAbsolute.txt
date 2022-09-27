@@ -1,0 +1,16 @@
+F:\Programming\C#\House\House\bin\Debug\House.exe.config
+F:\Programming\C#\House\House\bin\Debug\House.exe
+F:\Programming\C#\House\House\bin\Debug\House.pdb
+F:\Programming\C#\House\House\obj\Debug\House.csproj.AssemblyReference.cache
+F:\Programming\C#\House\House\obj\Debug\House.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\House\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+F:\Programming\C#\House\House\obj\Debug\House.exe
+F:\Programming\C#\House\House\obj\Debug\House.pdb
+F:\Programming\C#\prog1\potzh1\House\House\bin\Debug\House.exe.config
+F:\Programming\C#\prog1\potzh1\House\House\bin\Debug\House.exe
+F:\Programming\C#\prog1\potzh1\House\House\bin\Debug\House.pdb
+F:\Programming\C#\prog1\potzh1\House\House\obj\Debug\House.csproj.AssemblyReference.cache
+F:\Programming\C#\prog1\potzh1\House\House\obj\Debug\House.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\prog1\potzh1\House\House\obj\Debug\House.csproj.CoreCompileInputs.cache
+F:\Programming\C#\prog1\potzh1\House\House\obj\Debug\House.exe
+F:\Programming\C#\prog1\potzh1\House\House\obj\Debug\House.pdb

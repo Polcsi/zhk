@@ -1,0 +1,8 @@
+F:\Programming\C#\Books\Books\bin\Debug\Books.exe.config
+F:\Programming\C#\Books\Books\bin\Debug\Books.exe
+F:\Programming\C#\Books\Books\bin\Debug\Books.pdb
+F:\Programming\C#\Books\Books\obj\Debug\Books.csproj.AssemblyReference.cache
+F:\Programming\C#\Books\Books\obj\Debug\Books.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\Books\Books\obj\Debug\Books.csproj.CoreCompileInputs.cache
+F:\Programming\C#\Books\Books\obj\Debug\Books.exe
+F:\Programming\C#\Books\Books\obj\Debug\Books.pdb

@@ -1,0 +1,15 @@
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\bin\Debug\HospitalApp.exe.config
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\bin\Debug\HospitalApp.exe
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\bin\Debug\HospitalApp.pdb
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\obj\Debug\HospitalApp.exe
+C:\Users\I-117-03.hallgato\source\repos\HospitalApp\obj\Debug\HospitalApp.pdb
+F:\Programming\C#\prog1\zh1\HospitalApp\bin\Debug\HospitalApp.exe.config
+F:\Programming\C#\prog1\zh1\HospitalApp\bin\Debug\HospitalApp.exe
+F:\Programming\C#\prog1\zh1\HospitalApp\bin\Debug\HospitalApp.pdb
+F:\Programming\C#\prog1\zh1\HospitalApp\obj\Debug\HospitalApp.csproj.AssemblyReference.cache
+F:\Programming\C#\prog1\zh1\HospitalApp\obj\Debug\HospitalApp.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\prog1\zh1\HospitalApp\obj\Debug\HospitalApp.csproj.CoreCompileInputs.cache
+F:\Programming\C#\prog1\zh1\HospitalApp\obj\Debug\HospitalApp.exe
+F:\Programming\C#\prog1\zh1\HospitalApp\obj\Debug\HospitalApp.pdb

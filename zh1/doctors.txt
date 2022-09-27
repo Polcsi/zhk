@@ -1,0 +1,87 @@
+First name;Last name;Birth date;Gender;Phone;Specialties
+Jonathan Ellison(1917. 02. 23. 13:54:00);Male;25/694 802-5772;Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Alison Campbell(1954. 02. 02. 16:32:00);Female;91/916 308-1893;Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Gordon Ellison(1956. 06. 24. 17:30:00);Male;86/190 151-7436;Child Neurology,Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Maria Johnston(1947. 05. 21. 13:12:00);Female;91/794 816-8525;Child Neurology,Pediatric Gastroenterology
+David Ellison(1966. 01. 27. 4:57:00);Male;22/300 319-7572;Child Neurology,Infectious Disease
+David Campbell(1934. 09. 05. 15:48:00);Male;77/464 606-6963;Child Neurology,Psychiatry
+Alison Johnston(1913. 10. 13. 5:41:00);Female;78/476 824-4424;Child Neurology,Pediatric Gastroenterology,Psychiatry,Neuropathology
+Sophie Johnston(1909. 10. 05. 12:48:00);Female;91/915 630-6675;Child Neurology,Pediatric Gastroenterology
+Brandon Abraham(1942. 09. 28. 6:15:00);Male;96/410 935-6621;Neuropathology
+David Johnston(1968. 12. 28. 12:37:00);Male;41/712 348-6608;Pediatric Gastroenterology,Psychiatry,Infectious Disease,Neuropathology
+Sophie Ellison(1911. 01. 24. 17:57:00);Female;27/496 631-8325;Child Neurology,Psychiatry,Infectious Disease,Neuropathology
+Sophie Henderson(1947. 03. 17. 8:42:00);Female;33/376 364-6021;Psychiatry,Infectious Disease
+Gordon Campbell(1903. 07. 29. 7:19:00);Male;44/646 666-1334;Child Neurology,Neuropathology
+Jonathan Ellison(1906. 11. 06. 4:15:00);Male;88/878 713-8963;Psychiatry
+Alison Johnston(1956. 02. 18. 1:11:00);Female;24/304 279-1727;Child Neurology,Psychiatry,Neuropathology
+Alexandra Abraham(1943. 10. 03. 7:16:00);Female;41/434 999-5035;Pediatric Gastroenterology,Neuropathology
+Maria Campbell(1942. 07. 20. 10:57:00);Female;40/466 607-4571;Pediatric Gastroenterology,Infectious Disease
+Peter Johnston(1997. 02. 12. 7:19:00);Male;25/117 564-1915;Child Neurology
+Alexandra Henderson(1926. 09. 12. 10:59:00);Female;27/490 189-2471;Infectious Disease
+Brandon Campbell(1902. 09. 01. 16:23:00);Male;39/897 120-6076;Child Neurology,Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Sophie Henderson(1988. 01. 04. 15:13:00);Female;81/247 505-9068;Neuropathology
+Maria Henderson(1950. 11. 06. 18:46:00);Female;46/676 277-8838;Psychiatry,Infectious Disease
+David Campbell(1911. 11. 27. 20:27:00);Male;86/741 454-4885;Child Neurology,Pediatric Gastroenterology,Psychiatry
+Gordon Johnston(1976. 02. 19. 7:53:00);Male;39/792 577-1503;Child Neurology,Infectious Disease
+Sophie Johnston(1963. 04. 23. 9:22:00);Female;19/683 631-3739;Child Neurology,Psychiatry,Infectious Disease
+Alison Campbell(1922. 03. 19. 23:15:00);Female;72/343 814-6778;Pediatric Gastroenterology,Infectious Disease
+Alexandra Henderson(1984. 05. 11. 19:03:00);Female;55/192 819-1248;Child Neurology,Pediatric Gastroenterology
+Sophie Johnston(1998. 04. 11. 4:44:00);Female;96/104 218-6538;Pediatric Gastroenterology,Psychiatry,Neuropathology
+Brandon Johnston(1947. 05. 13. 6:21:00);Male;47/644 581-5114;Pediatric Gastroenterology,Infectious Disease,Neuropathology
+David Ellison(1966. 11. 13. 20:46:00);Male;53/450 967-3758;Pediatric Gastroenterology,Psychiatry,Infectious Disease,Neuropathology
+Peter Henderson(1932. 01. 18. 12:18:00);Male;27/908 384-8983;Infectious Disease,Neuropathology
+Gordon Henderson(1914. 12. 16. 5:34:00);Male;66/995 260-3811;Child Neurology,Psychiatry,Neuropathology
+Alison Campbell(1988. 07. 24. 21:02:00);Female;64/310 403-7479;Pediatric Gastroenterology,Neuropathology
+Gordon Abraham(1911. 12. 12. 20:56:00);Male;71/968 989-8786;Child Neurology,Psychiatry,Infectious Disease
+David Campbell(1990. 04. 23. 0:24:00);Male;79/849 980-5065;Psychiatry,Infectious Disease,Neuropathology
+Jonathan Henderson(1947. 09. 02. 10:35:00);Male;13/199 492-4677;Pediatric Gastroenterology,Psychiatry,Infectious Disease,Neuropathology
+Wanda Johnston(1939. 06. 10. 18:12:00);Female;65/815 480-8076;Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Gordon Ellison(1971. 06. 21. 6:33:00);Male;77/742 279-5561;Child Neurology,Psychiatry,Infectious Disease,Neuropathology
+Sophie Henderson(1966. 09. 29. 20:52:00);Female;64/817 824-8532;Pediatric Gastroenterology,Infectious Disease
+Sophie Abraham(1935. 03. 15. 23:36:00);Female;81/338 336-6285;
+Peter Ellison(1929. 07. 07. 17:46:00);Male;36/797 854-6441;Child Neurology,Pediatric Gastroenterology
+Jonathan Henderson(1923. 08. 07. 9:22:00);Male;83/622 418-6677;Child Neurology,Psychiatry,Infectious Disease,Neuropathology
+David Johnston(1934. 03. 08. 14:43:00);Male;67/159 351-4058;Psychiatry
+Jonathan Ellison(1901. 07. 21. 15:51:00);Male;49/966 830-8912;Infectious Disease
+Maria Abraham(1905. 02. 18. 18:37:00);Female;16/913 541-5254;Pediatric Gastroenterology,Psychiatry,Infectious Disease
+David Ellison(1931. 09. 12. 19:58:00);Male;64/848 726-3107;
+Alexandra Campbell(1979. 07. 24. 21:00:00);Female;77/620 634-3132;Child Neurology,Pediatric Gastroenterology,Neuropathology
+Brandon Henderson(1992. 05. 16. 2:08:00);Male;81/769 783-8806;Child Neurology,Pediatric Gastroenterology,Psychiatry,Infectious Disease,Neuropathology
+Wanda Abraham(1959. 05. 31. 23:46:00);Female;42/186 577-3489;Infectious Disease,Neuropathology
+Gordon Campbell(1965. 08. 25. 13:50:00);Male;32/769 123-3775;Child Neurology,Neuropathology
+Alison Abraham(1928. 08. 26. 5:27:00);Female;59/974 424-7106;Pediatric Gastroenterology,Psychiatry
+Sophie Campbell(1966. 01. 08. 21:55:00);Female;71/105 517-3324;Psychiatry
+Alexandra Henderson(1941. 02. 28. 7:49:00);Female;92/607 422-6042;Pediatric Gastroenterology,Psychiatry,Infectious Disease,Neuropathology
+Alexandra Ellison(1954. 01. 05. 14:39:00);Female;83/337 955-5458;Infectious Disease,Neuropathology
+Alexandra Abraham(1918. 02. 18. 21:19:00);Female;61/520 137-8416;Child Neurology,Infectious Disease,Neuropathology
+Brandon Campbell(1955. 09. 30. 18:25:00);Male;90/208 591-8587;Child Neurology
+Peter Henderson(1931. 11. 29. 15:53:00);Male;97/803 936-6871;Child Neurology,Psychiatry,Neuropathology
+David Johnston(1978. 08. 01. 3:24:00);Male;73/677 120-3806;Child Neurology,Pediatric Gastroenterology,Infectious Disease,Neuropathology
+Alison Ellison(1906. 04. 29. 23:25:00);Female;75/694 982-5835;Child Neurology,Infectious Disease
+David Henderson(1926. 05. 16. 1:22:00);Male;73/208 135-1303;Pediatric Gastroenterology,Psychiatry,Neuropathology
+Peter Campbell(1970. 10. 10. 2:20:00);Male;98/785 238-3810;Child Neurology,Pediatric Gastroenterology,Psychiatry,Neuropathology
+Wanda Abraham(1976. 09. 09. 19:59:00);Female;89/764 909-1722;Child Neurology,Psychiatry,Neuropathology
+Jonathan Campbell(1963. 02. 19. 11:53:00);Male;78/918 353-3915;Neuropathology
+David Henderson(1920. 04. 03. 9:06:00);Male;45/303 943-8096;Child Neurology,Pediatric Gastroenterology,Infectious Disease,Neuropathology
+Alexandra Campbell(1981. 04. 21. 12:59:00);Female;56/785 276-7054;Child Neurology,Pediatric Gastroenterology,Psychiatry
+Alexandra Ellison(1960. 02. 19. 2:59:00);Female;89/781 346-8796;Pediatric Gastroenterology,Psychiatry,Infectious Disease,Neuropathology
+Peter Campbell(1952. 01. 14. 18:17:00);Male;75/918 119-3497;Child Neurology
+Jonathan Ellison(1946. 02. 27. 22:33:00);Male;30/944 157-9028;Infectious Disease
+Brandon Henderson(1990. 06. 17. 1:01:00);Male;90/494 137-4308;Pediatric Gastroenterology,Infectious Disease
+Alexandra Johnston(1930. 04. 27. 13:04:00);Female;64/377 853-2621;Pediatric Gastroenterology,Psychiatry
+Peter Johnston(1973. 11. 26. 17:33:00);Male;78/358 325-6557;Child Neurology,Pediatric Gastroenterology,Psychiatry,Neuropathology
+Alison Abraham(1911. 01. 07. 23:45:00);Female;68/372 276-5106;Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Wanda Campbell(1968. 06. 06. 2:01:00);Female;68/391 819-9824;Child Neurology,Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Alexandra Johnston(1991. 11. 08. 18:32:00);Female;10/102 633-2604;Child Neurology,Pediatric Gastroenterology,Infectious Disease,Neuropathology
+Wanda Campbell(1975. 06. 23. 23:22:00);Female;84/140 964-1033;Child Neurology,Psychiatry,Infectious Disease,Neuropathology
+Jonathan Abraham(1905. 12. 07. 5:47:00);Male;30/457 875-3111;Child Neurology,Pediatric Gastroenterology,Neuropathology
+Maria Campbell(1919. 10. 18. 23:28:00);Female;64/244 176-7869;Psychiatry,Infectious Disease,Neuropathology
+Brandon Henderson(1978. 11. 28. 1:13:00);Male;75/839 448-3125;Pediatric Gastroenterology,Neuropathology
+Alexandra Abraham(1929. 11. 29. 14:06:00);Female;23/668 292-4725;Child Neurology,Pediatric Gastroenterology,Psychiatry,Infectious Disease
+Maria Henderson(1966. 05. 23. 10:59:00);Female;93/247 949-4181;Pediatric Gastroenterology,Psychiatry,Neuropathology
+Brandon Ellison(1940. 01. 14. 17:59:00);Male;20/939 809-1618;Pediatric Gastroenterology,Infectious Disease
+Brandon Campbell(1921. 04. 13. 17:56:00);Male;96/735 273-2223;Child Neurology,Pediatric Gastroenterology,Neuropathology
+Alison Abraham(1980. 12. 05. 3:13:00);Female;53/875 259-5166;Pediatric Gastroenterology,Neuropathology
+Gordon Johnston(1946. 10. 17. 1:36:00);Male;19/512 970-8726;Psychiatry
+Sophie Ellison(1999. 11. 13. 2:06:00);Female;40/431 372-8852;Neuropathology
+Wanda Campbell(1966. 06. 05. 22:25:00);Female;39/352 841-6762;Child Neurology,Psychiatry,Infectious Disease,Neuropathology

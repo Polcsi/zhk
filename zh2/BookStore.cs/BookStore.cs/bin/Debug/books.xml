@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bookstore>
+  <Book Id="bk101">
+    <Title>XML Developer's Guide</Title>
+    <Author>
+      <FirstName>Gambardella</FirstName>
+      <LastName>Matthew</LastName>
+      <BirthDate>1976-10-10T00:00:00</BirthDate>
+    </Author>
+    <Category>Computer</Category>
+    <Price>44.95</Price>
+    <PublishDate>2000-10-01T00:00:00</PublishDate>
+    <Description>An in-depth look at creating applications with XML.</Description>
+  </Book>
+  <Book Id="bk102">
+    <Title>Midnight Rain</Title>
+    <Author>
+      <FirstName>Ralls</FirstName>
+      <LastName>Kim</LastName>
+      <BirthDate>1982-02-13T00:00:00</BirthDate>
+    </Author>
+    <Category>Fantasy</Category>
+    <Price>5.95</Price>
+    <PublishDate>2000-12-16T00:00:00</PublishDate>
+    <Description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</Description>
+  </Book>
+  <Book Id="bk103">
+    <Title>Maeve Ascendant</Title>
+    <Author>
+      <FirstName>Corets</FirstName>
+      <LastName>Eva</LastName>
+      <BirthDate>1956-06-12T00:00:00</BirthDate>
+    </Author>
+    <Category>Fantasy</Category>
+    <Price>5.95</Price>
+    <PublishDate>2000-11-17T00:00:00</PublishDate>
+    <Description>After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.</Description>
+  </Book>
+  <Book Id="bk104">
+    <Title>Paradox Lost</Title>
+    <Author>
+      <FirstName>Kress</FirstName>
+      <LastName>Peter</LastName>
+      <BirthDate>1965-01-24T00:00:00</BirthDate>
+    </Author>
+    <Category>Science Fiction</Category>
+    <PublishDate>2000-11-02T00:00:00</PublishDate>
+    <Description>After an inadvertant trip through a Heisenberg Uncertainty Device, James Salway discoversthe problems of being quantum.</Description>
+  </Book>
+  <Book Id="bk105">
+    <Title>Microsoft .NET: The Programming Bible</Title>
+    <Author>
+      <FirstName>O'Brien</FirstName>
+      <LastName>Tim</LastName>
+      <BirthDate>1977-04-12T00:00:00</BirthDate>
+    </Author>
+    <Category>Computer</Category>
+    <Price>36.95</Price>
+    <PublishDate>2000-12-09T00:00:00</PublishDate>
+    <Description>Microsoft's .NET initiative is explored in detail in this deep programmer'sreference.</Description>
+  </Book>
+</Bookstore>

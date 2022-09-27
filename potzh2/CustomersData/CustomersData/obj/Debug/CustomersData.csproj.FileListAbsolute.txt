@@ -1,0 +1,16 @@
+F:\Programming\C#\CustomersData\CustomersData\bin\Debug\CustomersData.exe.config
+F:\Programming\C#\CustomersData\CustomersData\bin\Debug\CustomersData.exe
+F:\Programming\C#\CustomersData\CustomersData\bin\Debug\CustomersData.pdb
+F:\Programming\C#\CustomersData\CustomersData\obj\Debug\CustomersData.csproj.AssemblyReference.cache
+F:\Programming\C#\CustomersData\CustomersData\obj\Debug\CustomersData.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\CustomersData\CustomersData\obj\Debug\CustomersData.csproj.CoreCompileInputs.cache
+F:\Programming\C#\CustomersData\CustomersData\obj\Debug\CustomersData.exe
+F:\Programming\C#\CustomersData\CustomersData\obj\Debug\CustomersData.pdb
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\bin\Debug\CustomersData.exe.config
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\bin\Debug\CustomersData.exe
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\bin\Debug\CustomersData.pdb
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\obj\Debug\CustomersData.csproj.AssemblyReference.cache
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\obj\Debug\CustomersData.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\obj\Debug\CustomersData.csproj.CoreCompileInputs.cache
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\obj\Debug\CustomersData.exe
+F:\Programming\C#\prog1\potzh2\CustomersData\CustomersData\obj\Debug\CustomersData.pdb

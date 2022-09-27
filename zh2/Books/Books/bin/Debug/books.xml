@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book Id="bk101">
+    <Title>XML Developer's Guide</Title>
+    <Author>
+      <FirstName>Gambardella</FirstName>
+      <LastName>Matthew</LastName>
+      <BirthDate>1976-10-10T00:00:00</BirthDate>
+    </Author>
+    <Category>Computer</Category>
+    <Price>44.95</Price>
+    <PublishDate>2000-10-01T00:00:00</PublishDate>
+    <Description>An in-depth look at creating applications with XML.</Description>
+  </Book>
+  <Book Id="bk102">
+    <Title>Midnight Rain</Title>
+    <Author>
+      <FirstName>Ralls</FirstName>
+      <LastName>Kim</LastName>
+      <BirthDate>2000-12-16T00:00:00</BirthDate>
+    </Author>
+    <Category>Fantasy</Category>
+    <Price>5.95</Price>
+    <PublishDate>1982-02-13T00:00:00</PublishDate>
+    <Description> former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</Description>
+  </Book>
+</Books>

@@ -1,0 +1,22 @@
+Name;(Sex);BirthDate;Phone;Symptom
+Maria Abraham;(Female);1903. 05. 18.;74/446 252-5624;False
+Brandon Campbell;(Male);1969. 11. 23.;43/384 218-4530;True
+Brandon Johnston;(Male);1931. 04. 27.;78/131 827-3609;False
+Alexandra Johnston;(Female);1993. 12. 02.;96/276 482-2665;False
+Alison Henderson;(Female);1926. 05. 20.;92/308 703-7715;False
+Peter Ellison;(Male);2003. 11. 30.;30/258 900-4285;True
+Maria Abraham;(Female);1930. 01. 01.;47/356 419-3556;False
+Jonathan Campbell;(Male);1966. 03. 11.;50/426 733-7575;False
+Gordon Johnston;(Male);1973. 11. 12.;66/465 441-9028;True
+Jonathan Ellison;(Male);1963. 10. 28.;33/168 450-7879;True
+Alexandra Johnston;(Female);1952. 04. 15.;64/249 873-8027;True
+David Abraham;(Male);2010. 06. 29.;36/887 382-6678;False
+Wanda Henderson;(Female);1975. 06. 22.;98/753 391-2928;True
+Sophie Henderson;(Female);2006. 09. 02.;49/790 827-1947;False
+Jonathan Ellison;(Male);1941. 05. 07.;51/913 755-2046;True
+Alison Campbell;(Female);1930. 05. 11.;13/427 103-1690;False
+Brandon Johnston;(Male);1939. 02. 08.;16/305 417-1441;False
+Brandon Abraham;(Male);2010. 08. 19.;50/618 918-9014;False
+Alexandra Johnston;(Female);1907. 03. 21.;29/420 934-1318;False
+Sophie Henderson;(Female);1995. 01. 01.;16/996 550-1815;False
+Maria Campbell;(Female);1949. 03. 06.;94/815 903-8830;False

@@ -1,0 +1,8 @@
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\bin\Debug\PlanetDownLoaderApp.exe.config
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\bin\Debug\PlanetDownLoaderApp.exe
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\bin\Debug\PlanetDownLoaderApp.pdb
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\obj\Debug\PlanetDownLoaderApp.csproj.AssemblyReference.cache
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\obj\Debug\PlanetDownLoaderApp.csproj.SuggestedBindingRedirects.cache
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\obj\Debug\PlanetDownLoaderApp.csproj.CoreCompileInputs.cache
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\obj\Debug\PlanetDownLoaderApp.exe
+F:\Programming\C#\PlanetDownLoaderApp\PlanetDownLoaderApp\obj\Debug\PlanetDownLoaderApp.pdb
